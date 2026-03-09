@@ -14,10 +14,21 @@ This project analyses UK online retail sales data using **SQL and Power BI**.
 - Average Order Value: €480
 
 ## Dashboards
-- Executive Overview
-- Product Performance
-- Customer Behaviour
-- Geographic Sales
+## Executive Overview
+
+![Executive Overview](executive_overview.png)
+
+## Product Performance
+
+![Product Performance](product_performance.png)
+
+## Customer Behaviour
+
+![Customer Behaviour](customer_behaviour.png)
+
+## Geographic Sales
+
+![Geographic Sales](geographic_sales.png)
 
 ## Report
 See full report in:
