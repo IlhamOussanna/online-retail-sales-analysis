@@ -1,3 +1,6 @@
+=======================================
+--Core KPIs
+=======================================
 --1. Total Revenue
 SELECT ROUND(
 SUM(line_revenue)) AS total_revenue
@@ -126,4 +129,5 @@ FROM ranked;
 
 
 	  
+
 
