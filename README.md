@@ -2,6 +2,27 @@
 
 This project analyses UK online retail sales data using **SQL and Power BI**.
 
+## Dataset
+
+The dataset used in this project is the **Ecommerce Data dataset** available on Kaggle.
+
+Source:
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+The dataset contains transactional data for a UK-based online retail store between **December 2010 and December 2011**, including:
+
+- Invoice number
+- Stock Code
+- Product description
+- Quantity
+- Invoice Date
+- Unit price
+- Customer ID
+- Country
+
+Due to file size limitations, the dataset is not included in this repository.  
+You can download it directly from the Kaggle source above.
+
 ## Tools
 - PostgreSQL
 - SQL
