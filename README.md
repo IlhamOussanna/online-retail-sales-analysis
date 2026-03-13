@@ -57,3 +57,13 @@ See full report in:
 
 ## SQL Queries
 `retail_analysis_queries.sql`
+
+---
+
+## 👤 Author
+
+**Ilham Oussanna** — Junior Data Analyst   
+🔗 [LinkedIn](https://www.linkedin.com/in/ilham-o-89372a274)
+
+
+
