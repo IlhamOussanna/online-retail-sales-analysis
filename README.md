@@ -37,19 +37,19 @@ You can download it directly from the Kaggle source above.
 ## Dashboards
 ## Executive Overview
 
-![Executive Overview](screenshots/page1_executive_overview.png)
+![Executive Overview](screenshots/Page1_executive_overview.png)
 
 ## Customer Behaviour
 
-![Customer Behaviour](screenshots/page2_customer_behaviour.png)
+![Customer Behaviour](screenshots/Page2_customer_behaviour.png)
 
 ## Product Performance
 
-![Product Performance](screenshots/page3_product_performance.png)
+![Product Performance](screenshots/Page3_product_performance.png)
 
 ## Geographic Sales
 
-![Geographic Sales](screenshots/page4_geographic_sales.png)
+![Geographic Sales](screenshots/Page4_geographic_sales.png)
 
 ## Report
 See full report in:
