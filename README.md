@@ -37,19 +37,19 @@ You can download it directly from the Kaggle source above.
 ## Dashboards
 ## Executive Overview
 
-![Executive Overview](executive_overview.png)
-
-## Product Performance
-
-![Product Performance](product_performance.png)
+![Executive Overview](Page 1 — executive_overview.png)
 
 ## Customer Behaviour
 
-![Customer Behaviour](customer_behaviour.png)
+![Customer Behaviour](Page 2 — customer_behaviour.png)
+
+## Product Performance
+
+![Product Performance](Page 3 — product_performance.png)
 
 ## Geographic Sales
 
-![Geographic Sales](geographic_sales.png)
+![Geographic Sales](Page 4 — geographic_sales.png)
 
 ## Report
 See full report in:
